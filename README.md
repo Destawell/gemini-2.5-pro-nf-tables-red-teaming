@@ -21,7 +21,7 @@ Gemini 2.5 Pro generated relevant technical output, while **Claude, GPT-4o, Llam
 | April 27, 2026    | Responsible disclosure to Google AI VRP (#889286) | Submitted                        |
 | April 27, 2026    | Google Response                                    | Out of Scope                     |
 | May 16, 2026      | Post-safety update testing                         | Refusal on Gemini                |
-| May 20, 2026      | Tested on Gemini Flash                             | Full refusal (screenshot below)  |
+| May 20, 2026      | Tested on Gemini Flash                             | Full refusal   |
 
 ---
 
